@@ -42,8 +42,8 @@
 
 .navigation a {
     display: inline-block;
-    height: 25px;
-    width: 25px;
+    height: 16px;
+    width: 16px;
     background-color: #666;
     font-size: 0px;
     border-radius: 50%;
@@ -62,7 +62,7 @@
     left: 0;
     right: 0;
     text-align: center;
-    margin-top: -50px;
+    margin-top: -25px;
 }
 
 @media screen and (max-width: 800px){
