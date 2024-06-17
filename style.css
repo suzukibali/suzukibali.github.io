@@ -78,7 +78,7 @@ header {
 header video {
     position: absolute;
     width: 100%;
-    top: 20px;
+    top: 50px;
     left: 0;
     object-fit: cover;
     z-index: -2;
