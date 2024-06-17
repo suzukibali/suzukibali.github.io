@@ -5,12 +5,11 @@
 }
 .images img {
     width: 100%;
-    top: 20px;
 }
 
 .wrapper {
     width: 800px;
-    top: 30px;
+    top: 50px;
     margin: auto;
     border-radius: 5px;
     overflow: hidden;
