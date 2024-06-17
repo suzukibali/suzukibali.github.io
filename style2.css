@@ -5,6 +5,7 @@
 }
 .images img {
     width: 100%;
+    top: 20px;
 }
 
 .wrapper {
