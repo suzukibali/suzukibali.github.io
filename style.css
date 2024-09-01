@@ -78,9 +78,8 @@ header {
 header video {
     position: absolute;
     width: 100%;
-    top: 30px;
+    top: 20px;
     left: 0;
-    right: 0;
     object-fit: cover;
     z-index: -2;
 }
@@ -317,7 +316,7 @@ footer .layar-dalam .copyright {
 
 @media screen and (max-width: 991.98px) {
 .layar-dalam {
-    width: 90%;
+    width: 100%;
 }
  nav .menu ul {
     display: none;
