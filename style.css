@@ -80,6 +80,7 @@ header video {
     width: 100%;
     top: 30px;
     left: 0;
+    right: 0;
     object-fit: cover;
     z-index: -2;
 }
