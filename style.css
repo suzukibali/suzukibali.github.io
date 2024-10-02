@@ -300,6 +300,7 @@ footer .layar-dalam div {
 }
 footer .layar-dalam div img {
     width: 80%
+    border-radius: 5px;
 }
 footer .layar-dalam h5 {
     margin-top: 0px;
